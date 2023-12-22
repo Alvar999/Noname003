@@ -1,0 +1,6 @@
+/timvieclam de tim cho minh mot cong viec thich hop.,1711.06,-1874.68,13.56
+/timduong neu khong biet duong.,1718.27,-1876.48,13.56
+Cac lenh co ban de lam Trucker: /layhang, /cuophang, /huybo giaohang.,2448.54,-2120.25,13.54
+/timvieclam de tim mot cong viec thich hop nhe,1717.61,-1869.91,13.56
+/timduong neu khong biet duong,1712.61,-1869.95,13.56
+Cac lenh co ban de lam Trucker: /layhang, /huybo giaohang, /cuophang,2447.28,-2114.62,13.57
